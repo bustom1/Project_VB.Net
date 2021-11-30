@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\Variable\Variable\bin\Debug\Variable.exe.config
+D:\Data Visual Studio\Bustomi\Variable\Variable\bin\Debug\Variable.exe
+D:\Data Visual Studio\Bustomi\Variable\Variable\bin\Debug\Variable.pdb
+D:\Data Visual Studio\Bustomi\Variable\Variable\bin\Debug\Variable.xml
+D:\Data Visual Studio\Bustomi\Variable\Variable\obj\Debug\Variable.Resources.resources
+D:\Data Visual Studio\Bustomi\Variable\Variable\obj\Debug\Variable.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Variable\Variable\obj\Debug\Variable.exe
+D:\Data Visual Studio\Bustomi\Variable\Variable\obj\Debug\Variable.xml
+D:\Data Visual Studio\Bustomi\Variable\Variable\obj\Debug\Variable.pdb

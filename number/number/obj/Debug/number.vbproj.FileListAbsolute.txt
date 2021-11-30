@@ -1,0 +1,13 @@
+D:\Data Visual Studio\Bustomi\number\number\bin\Debug\number.exe.config
+D:\Data Visual Studio\Bustomi\number\number\bin\Debug\number.exe
+D:\Data Visual Studio\Bustomi\number\number\bin\Debug\number.pdb
+D:\Data Visual Studio\Bustomi\number\number\bin\Debug\number.xml
+D:\Data Visual Studio\Bustomi\number\number\obj\Debug\number.Resources.resources
+D:\Data Visual Studio\Bustomi\number\number\obj\Debug\number.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\number\number\obj\Debug\number.exe
+D:\Data Visual Studio\Bustomi\number\number\obj\Debug\number.xml
+D:\Data Visual Studio\Bustomi\number\number\obj\Debug\number.pdb
+D:\Data Visual Studio\Bustomi\number\number\bin\Debug\number.exe.manifest
+D:\Data Visual Studio\Bustomi\number\number\bin\Debug\number.application
+D:\Data Visual Studio\Bustomi\number\number\obj\Debug\number.exe.manifest
+D:\Data Visual Studio\Bustomi\number\number\obj\Debug\number.application

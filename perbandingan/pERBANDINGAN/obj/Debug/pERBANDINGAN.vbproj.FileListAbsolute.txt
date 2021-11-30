@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\pERBANDINGAN\pERBANDINGAN\bin\Debug\pERBANDINGAN.exe.config
+D:\Data Visual Studio\Bustomi\pERBANDINGAN\pERBANDINGAN\bin\Debug\pERBANDINGAN.exe
+D:\Data Visual Studio\Bustomi\pERBANDINGAN\pERBANDINGAN\bin\Debug\pERBANDINGAN.pdb
+D:\Data Visual Studio\Bustomi\pERBANDINGAN\pERBANDINGAN\bin\Debug\pERBANDINGAN.xml
+D:\Data Visual Studio\Bustomi\pERBANDINGAN\pERBANDINGAN\obj\Debug\pERBANDINGAN.Resources.resources
+D:\Data Visual Studio\Bustomi\pERBANDINGAN\pERBANDINGAN\obj\Debug\pERBANDINGAN.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\pERBANDINGAN\pERBANDINGAN\obj\Debug\pERBANDINGAN.exe
+D:\Data Visual Studio\Bustomi\pERBANDINGAN\pERBANDINGAN\obj\Debug\pERBANDINGAN.xml
+D:\Data Visual Studio\Bustomi\pERBANDINGAN\pERBANDINGAN\obj\Debug\pERBANDINGAN.pdb

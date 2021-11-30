@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\operator aritmatika\operator aritmatika\bin\Debug\operator aritmatika.exe.config
+D:\Data Visual Studio\Bustomi\operator aritmatika\operator aritmatika\bin\Debug\operator aritmatika.exe
+D:\Data Visual Studio\Bustomi\operator aritmatika\operator aritmatika\bin\Debug\operator aritmatika.pdb
+D:\Data Visual Studio\Bustomi\operator aritmatika\operator aritmatika\bin\Debug\operator aritmatika.xml
+D:\Data Visual Studio\Bustomi\operator aritmatika\operator aritmatika\obj\Debug\operator_aritmatika.Resources.resources
+D:\Data Visual Studio\Bustomi\operator aritmatika\operator aritmatika\obj\Debug\operator aritmatika.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\operator aritmatika\operator aritmatika\obj\Debug\operator aritmatika.exe
+D:\Data Visual Studio\Bustomi\operator aritmatika\operator aritmatika\obj\Debug\operator aritmatika.xml
+D:\Data Visual Studio\Bustomi\operator aritmatika\operator aritmatika\obj\Debug\operator aritmatika.pdb

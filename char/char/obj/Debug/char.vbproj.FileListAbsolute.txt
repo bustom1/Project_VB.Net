@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\char\char\bin\Debug\char.exe.config
+D:\Data Visual Studio\Bustomi\char\char\bin\Debug\char.exe
+D:\Data Visual Studio\Bustomi\char\char\bin\Debug\char.pdb
+D:\Data Visual Studio\Bustomi\char\char\bin\Debug\char.xml
+D:\Data Visual Studio\Bustomi\char\char\obj\Debug\char.Resources.resources
+D:\Data Visual Studio\Bustomi\char\char\obj\Debug\char.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\char\char\obj\Debug\char.exe
+D:\Data Visual Studio\Bustomi\char\char\obj\Debug\char.xml
+D:\Data Visual Studio\Bustomi\char\char\obj\Debug\char.pdb

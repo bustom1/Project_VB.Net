@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\Percabangan\Percabangan\bin\Debug\Percabangan.exe.config
+D:\Data Visual Studio\Bustomi\Percabangan\Percabangan\bin\Debug\Percabangan.exe
+D:\Data Visual Studio\Bustomi\Percabangan\Percabangan\bin\Debug\Percabangan.pdb
+D:\Data Visual Studio\Bustomi\Percabangan\Percabangan\bin\Debug\Percabangan.xml
+D:\Data Visual Studio\Bustomi\Percabangan\Percabangan\obj\Debug\Percabangan.Resources.resources
+D:\Data Visual Studio\Bustomi\Percabangan\Percabangan\obj\Debug\Percabangan.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Percabangan\Percabangan\obj\Debug\Percabangan.exe
+D:\Data Visual Studio\Bustomi\Percabangan\Percabangan\obj\Debug\Percabangan.xml
+D:\Data Visual Studio\Bustomi\Percabangan\Percabangan\obj\Debug\Percabangan.pdb

@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\date\date\bin\Debug\date.exe.config
+D:\Data Visual Studio\Bustomi\date\date\bin\Debug\date.exe
+D:\Data Visual Studio\Bustomi\date\date\bin\Debug\date.pdb
+D:\Data Visual Studio\Bustomi\date\date\bin\Debug\date.xml
+D:\Data Visual Studio\Bustomi\date\date\obj\Debug\date.Resources.resources
+D:\Data Visual Studio\Bustomi\date\date\obj\Debug\date.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\date\date\obj\Debug\date.exe
+D:\Data Visual Studio\Bustomi\date\date\obj\Debug\date.xml
+D:\Data Visual Studio\Bustomi\date\date\obj\Debug\date.pdb

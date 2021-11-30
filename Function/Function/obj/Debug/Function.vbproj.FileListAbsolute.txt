@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\Function\Function\bin\Debug\Function.exe.config
+D:\Data Visual Studio\Bustomi\Function\Function\bin\Debug\Function.exe
+D:\Data Visual Studio\Bustomi\Function\Function\bin\Debug\Function.pdb
+D:\Data Visual Studio\Bustomi\Function\Function\bin\Debug\Function.xml
+D:\Data Visual Studio\Bustomi\Function\Function\obj\Debug\Function.Resources.resources
+D:\Data Visual Studio\Bustomi\Function\Function\obj\Debug\Function.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Function\Function\obj\Debug\Function.exe
+D:\Data Visual Studio\Bustomi\Function\Function\obj\Debug\Function.xml
+D:\Data Visual Studio\Bustomi\Function\Function\obj\Debug\Function.pdb

@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\Konversi Tipe data\Konversi Tipe data\bin\Debug\Konversi Tipe data.exe.config
+D:\Data Visual Studio\Bustomi\Konversi Tipe data\Konversi Tipe data\bin\Debug\Konversi Tipe data.exe
+D:\Data Visual Studio\Bustomi\Konversi Tipe data\Konversi Tipe data\bin\Debug\Konversi Tipe data.pdb
+D:\Data Visual Studio\Bustomi\Konversi Tipe data\Konversi Tipe data\bin\Debug\Konversi Tipe data.xml
+D:\Data Visual Studio\Bustomi\Konversi Tipe data\Konversi Tipe data\obj\Debug\Konversi_Tipe_data.Resources.resources
+D:\Data Visual Studio\Bustomi\Konversi Tipe data\Konversi Tipe data\obj\Debug\Konversi Tipe data.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Konversi Tipe data\Konversi Tipe data\obj\Debug\Konversi Tipe data.exe
+D:\Data Visual Studio\Bustomi\Konversi Tipe data\Konversi Tipe data\obj\Debug\Konversi Tipe data.xml
+D:\Data Visual Studio\Bustomi\Konversi Tipe data\Konversi Tipe data\obj\Debug\Konversi Tipe data.pdb

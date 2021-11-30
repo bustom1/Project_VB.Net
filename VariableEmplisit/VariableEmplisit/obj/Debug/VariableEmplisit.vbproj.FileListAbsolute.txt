@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\VariableEmplisit\VariableEmplisit\bin\Debug\VariableEmplisit.exe.config
+D:\Data Visual Studio\Bustomi\VariableEmplisit\VariableEmplisit\bin\Debug\VariableEmplisit.exe
+D:\Data Visual Studio\Bustomi\VariableEmplisit\VariableEmplisit\bin\Debug\VariableEmplisit.pdb
+D:\Data Visual Studio\Bustomi\VariableEmplisit\VariableEmplisit\bin\Debug\VariableEmplisit.xml
+D:\Data Visual Studio\Bustomi\VariableEmplisit\VariableEmplisit\obj\Debug\VariableEmplisit.Resources.resources
+D:\Data Visual Studio\Bustomi\VariableEmplisit\VariableEmplisit\obj\Debug\VariableEmplisit.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\VariableEmplisit\VariableEmplisit\obj\Debug\VariableEmplisit.exe
+D:\Data Visual Studio\Bustomi\VariableEmplisit\VariableEmplisit\obj\Debug\VariableEmplisit.xml
+D:\Data Visual Studio\Bustomi\VariableEmplisit\VariableEmplisit\obj\Debug\VariableEmplisit.pdb

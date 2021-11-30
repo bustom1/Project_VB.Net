@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\boolean\boolean\bin\Debug\boolean.exe.config
+D:\Data Visual Studio\Bustomi\boolean\boolean\bin\Debug\boolean.exe
+D:\Data Visual Studio\Bustomi\boolean\boolean\bin\Debug\boolean.pdb
+D:\Data Visual Studio\Bustomi\boolean\boolean\bin\Debug\boolean.xml
+D:\Data Visual Studio\Bustomi\boolean\boolean\obj\Debug\boolean.Resources.resources
+D:\Data Visual Studio\Bustomi\boolean\boolean\obj\Debug\boolean.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\boolean\boolean\obj\Debug\boolean.exe
+D:\Data Visual Studio\Bustomi\boolean\boolean\obj\Debug\boolean.xml
+D:\Data Visual Studio\Bustomi\boolean\boolean\obj\Debug\boolean.pdb

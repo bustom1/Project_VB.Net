@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\Logika\Logika\bin\Debug\Logika.exe.config
+D:\Data Visual Studio\Bustomi\Logika\Logika\bin\Debug\Logika.exe
+D:\Data Visual Studio\Bustomi\Logika\Logika\bin\Debug\Logika.pdb
+D:\Data Visual Studio\Bustomi\Logika\Logika\bin\Debug\Logika.xml
+D:\Data Visual Studio\Bustomi\Logika\Logika\obj\Debug\Logika.Resources.resources
+D:\Data Visual Studio\Bustomi\Logika\Logika\obj\Debug\Logika.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Logika\Logika\obj\Debug\Logika.exe
+D:\Data Visual Studio\Bustomi\Logika\Logika\obj\Debug\Logika.xml
+D:\Data Visual Studio\Bustomi\Logika\Logika\obj\Debug\Logika.pdb

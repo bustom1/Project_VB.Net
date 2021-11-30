@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\Perulangan\Perulangan\bin\Debug\Perulangan.exe.config
+D:\Data Visual Studio\Bustomi\Perulangan\Perulangan\bin\Debug\Perulangan.exe
+D:\Data Visual Studio\Bustomi\Perulangan\Perulangan\bin\Debug\Perulangan.pdb
+D:\Data Visual Studio\Bustomi\Perulangan\Perulangan\bin\Debug\Perulangan.xml
+D:\Data Visual Studio\Bustomi\Perulangan\Perulangan\obj\Debug\Perulangan.Resources.resources
+D:\Data Visual Studio\Bustomi\Perulangan\Perulangan\obj\Debug\Perulangan.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Perulangan\Perulangan\obj\Debug\Perulangan.exe
+D:\Data Visual Studio\Bustomi\Perulangan\Perulangan\obj\Debug\Perulangan.xml
+D:\Data Visual Studio\Bustomi\Perulangan\Perulangan\obj\Debug\Perulangan.pdb

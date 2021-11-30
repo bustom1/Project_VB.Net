@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\Input\Input\bin\Debug\Input.exe.config
+D:\Data Visual Studio\Bustomi\Input\Input\bin\Debug\Input.exe
+D:\Data Visual Studio\Bustomi\Input\Input\bin\Debug\Input.pdb
+D:\Data Visual Studio\Bustomi\Input\Input\bin\Debug\Input.xml
+D:\Data Visual Studio\Bustomi\Input\Input\obj\Debug\Input.Resources.resources
+D:\Data Visual Studio\Bustomi\Input\Input\obj\Debug\Input.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\Input\Input\obj\Debug\Input.exe
+D:\Data Visual Studio\Bustomi\Input\Input\obj\Debug\Input.xml
+D:\Data Visual Studio\Bustomi\Input\Input\obj\Debug\Input.pdb

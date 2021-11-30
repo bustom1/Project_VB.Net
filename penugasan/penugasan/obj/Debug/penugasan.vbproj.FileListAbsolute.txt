@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\penugasan\penugasan\bin\Debug\penugasan.exe.config
+D:\Data Visual Studio\Bustomi\penugasan\penugasan\bin\Debug\penugasan.exe
+D:\Data Visual Studio\Bustomi\penugasan\penugasan\bin\Debug\penugasan.pdb
+D:\Data Visual Studio\Bustomi\penugasan\penugasan\bin\Debug\penugasan.xml
+D:\Data Visual Studio\Bustomi\penugasan\penugasan\obj\Debug\penugasan.Resources.resources
+D:\Data Visual Studio\Bustomi\penugasan\penugasan\obj\Debug\penugasan.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\penugasan\penugasan\obj\Debug\penugasan.exe
+D:\Data Visual Studio\Bustomi\penugasan\penugasan\obj\Debug\penugasan.xml
+D:\Data Visual Studio\Bustomi\penugasan\penugasan\obj\Debug\penugasan.pdb

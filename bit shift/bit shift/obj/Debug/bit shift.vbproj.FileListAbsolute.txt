@@ -1,0 +1,9 @@
+D:\Data Visual Studio\Bustomi\bit shift\bit shift\bin\Debug\bit shift.exe.config
+D:\Data Visual Studio\Bustomi\bit shift\bit shift\bin\Debug\bit shift.exe
+D:\Data Visual Studio\Bustomi\bit shift\bit shift\bin\Debug\bit shift.pdb
+D:\Data Visual Studio\Bustomi\bit shift\bit shift\bin\Debug\bit shift.xml
+D:\Data Visual Studio\Bustomi\bit shift\bit shift\obj\Debug\bit_shift.Resources.resources
+D:\Data Visual Studio\Bustomi\bit shift\bit shift\obj\Debug\bit shift.vbproj.GenerateResource.Cache
+D:\Data Visual Studio\Bustomi\bit shift\bit shift\obj\Debug\bit shift.exe
+D:\Data Visual Studio\Bustomi\bit shift\bit shift\obj\Debug\bit shift.xml
+D:\Data Visual Studio\Bustomi\bit shift\bit shift\obj\Debug\bit shift.pdb
